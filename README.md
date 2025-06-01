@@ -502,27 +502,6 @@ npx prisma migrate deploy
 npx prisma generate
 ```
 
-## 📊 Performance Metrics
-
-### Application Statistics
-- **5 Lakh+** Active Users
-- **₹15K Cr+** Transactions Tracked
-- **99.9%** Uptime
-- **4.9/5** User Rating
-
-### Technical Performance
-- **< 2s** Initial Page Load
-- **< 500ms** Transaction Processing
-- **99.9%** API Availability
-- **< 100ms** Database Query Response
-
-## 📞 Support & Documentation
-
-### Getting Help
-- 📧 **Email Support**: support@fortified.app
-- 📚 **Documentation**: [docs.fortified.app](https://docs.fortified.app)
-- 💬 **Community**: [GitHub Discussions](https://github.com/yourusername/fortified/discussions)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/fortified/issues)
 
 ### Additional Resources
 - [API Reference](./docs/api-reference.md)
@@ -533,17 +512,6 @@ npx prisma generate
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Next.js Team** for the incredible framework
-- **Clerk** for seamless authentication
-- **Google** for Gemini AI capabilities
-- **Supabase** for reliable database hosting
-- **Vercel** for deployment platform
-- **Open Source Community** for amazing packages and tools
 
 ---
 
